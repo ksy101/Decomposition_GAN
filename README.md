@@ -1,18 +1,18 @@
 # Decomposition_GAN
 
 
-# main documents:
+#1) main documents:
 deconv1d_train.py
 
 /models
 --------------------
-# prepare dataset
+#2) prepare dataset
 deconv1d_dataset.py
 --------------------
-# ducuments for cluster
+#3) ducuments for cluster
 ser_conv1d.pbs
 
 train_pix1d.sh
 ---------------------
-# ducuments for visu
+#4) ducuments for visu
 /util
