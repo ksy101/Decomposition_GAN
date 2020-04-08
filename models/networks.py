@@ -1,3 +1,8 @@
+"""
+Created on Fri Sep 20 11:12:05 2018
+
+@author: xie
+"""
 import torch
 import torch.nn as nn
 from torch.nn import init
