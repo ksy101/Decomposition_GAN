@@ -1,5 +1,5 @@
 """
-form pix2pix gan
+modified on pix2pix gan
 """
 import os
 import torch
