@@ -1,4 +1,4 @@
-"""from pix2pix gan
+"""modified on pix2pix gan
 """
 """This package contains modules related to objective functions, optimizations, and network architectures.
 
